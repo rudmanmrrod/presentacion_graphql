@@ -2,7 +2,7 @@
 
 Código fuente de la presentación de GraphQL
 
-# Si deseas instalar el proyecto
+## Si deseas instalar el proyecto
 
 ```
 mkvirtualenv graphql --python=/usr/bin/python3
@@ -14,7 +14,7 @@ python manage.py migrate
 
 ```
 
-# Visualizar el proyecto
+## Visualizar el proyecto
 
 ```
 python manage.py runserver
