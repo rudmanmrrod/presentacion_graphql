@@ -7,7 +7,7 @@ Código fuente de la presentación de GraphQL
 ```
 mkvirtualenv graphql --python=/usr/bin/python3
 
-pip install -r requeriments.txt
+pip install -r requirements.txt
 
 python manage.py makemigrations presentacion
 python manage.py migrate
