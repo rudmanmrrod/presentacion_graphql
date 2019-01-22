@@ -1,5 +1,4 @@
 import graphene
-from graphene import relay
 from graphene_django.types import DjangoObjectType
 
 from .models import Presentacion
